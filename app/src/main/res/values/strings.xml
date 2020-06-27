@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView1</string>
+    <string name="open_website">Open Website</string>
+    <string name="enter_the_website_url">Enter the website url</string>
+</resources>
